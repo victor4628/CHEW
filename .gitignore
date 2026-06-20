@@ -41,3 +41,6 @@
 
 # Logs
 *.log
+
+# Claude Code local workspace
+.claude/
